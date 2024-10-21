@@ -1,0 +1,1 @@
+//Lógica das lojas físicas (Listagem das lojas, pesquisa por id, pesquisa por cep, update de loja, cadastro de loja, delete de loja)
