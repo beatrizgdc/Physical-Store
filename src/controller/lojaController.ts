@@ -1,0 +1,1 @@
+//Lógica das lojas (cálculo da distância, listagem de todas lojas, pesquisa por ID, delete loja, criação de loja, update de loja)
