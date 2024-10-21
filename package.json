@@ -1,4 +1,20 @@
 {
+  "name": "physical-store",
+  "version": "1.0.0",
+  "description": "Este projeto implementa uma aplicação de terminal para encontrar lojas físicas de um eCommerce, utilizando a API do ViaCEP para localizar endereços com base no CEP fornecido pelo usuário. As lojas mais próximas dentro de um raio de 100 km serão priorizadas, e os dados são armazenados em um banco de dados MongoDB.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "ts-node src/app.ts",
+    "build": "tsc",
+    "dev": "ts-node-dev --respawn src/app.ts",
+    "clean": "rimraf dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "axios": "^1.7.7",
     "dotenv": "^16.4.5",
