@@ -1,0 +1,1 @@
+//Definição das rotas da api da loja
