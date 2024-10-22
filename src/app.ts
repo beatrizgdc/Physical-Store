@@ -5,7 +5,7 @@ import router from './routes/lojaRoutes';
 import logger from './utils/logger';
 
 const app = express();
-const port = 4000;
+const port = 3000;
 
 connectDB();
 

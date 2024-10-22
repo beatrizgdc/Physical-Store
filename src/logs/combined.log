@@ -1,2 +1,11 @@
 2024-10-22 08:24:53 [Physical Store App] [32minfo[39m: Servidor rodando na porta 4000
 2024-10-22 08:24:54 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-22 09:44:50 [Physical Store App] [32minfo[39m: Servidor rodando na porta 4000
+2024-10-22 09:44:52 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-22 10:02:31 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-22 10:02:33 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-22 10:02:58 [Physical Store App] [32minfo[39m: Endereço obtido via ViaCEP: Praça da Sé, São Paulo, SP
+2024-10-22 10:02:58 [Physical Store App] [32minfo[39m: Requisição de busca por lojas
+2024-10-22 10:02:58 [Physical Store App] [32minfo[39m: Endereço obtido via ViaCEP: Praça da Sé, São Paulo, SP
+2024-10-22 10:02:59 [Physical Store App] [32minfo[39m: Endereço obtido via ViaCEP: Rua Jacob Diehl, Piracicaba, SP
+2024-10-22 10:02:59 [Physical Store App] [31merror[39m: Coordenadas não encontradas para o CEP 13420-410
