@@ -1,6 +1,7 @@
 //Conexão com o MongoDB
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
+import logger from '../utils/logger';
 
 dotenv.config();
 
@@ -9,8 +10,8 @@ const mongoURI = process.env.MONGO_URI;
 export const connectDB = async () => {
     try {
         await mongoose.connect(mongoURI!);
-        console.log('Conexão com Banco de Dados bem sucedida!');
+        logger.info('Conexão com Banco de Dados bem sucedida!');
     } catch (err) {
-        console.log('Erro conexão Banco de Dados:', err);
+        logger.error('Erro conexão Banco de Dados:', err);
     }
 };
