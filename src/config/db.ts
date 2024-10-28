@@ -15,3 +15,7 @@ export const connectDB = async () => {
         logger.error('Erro conexão Banco de Dados:', err);
     }
 };
+
+export const disconnectDB = async () => {
+    await mongoose.connection.close();
+  };

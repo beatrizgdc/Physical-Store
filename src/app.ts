@@ -18,3 +18,5 @@ app.use('/api/lojas', router);
 app.listen(port, () => {
   logger.info(`Servidor rodando na porta ${port}`);
 });
+
+export default app;

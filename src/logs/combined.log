@@ -9,3 +9,78 @@
 2024-10-22 10:02:58 [Physical Store App] [32minfo[39m: Endereço obtido via ViaCEP: Praça da Sé, São Paulo, SP
 2024-10-22 10:02:59 [Physical Store App] [32minfo[39m: Endereço obtido via ViaCEP: Rua Jacob Diehl, Piracicaba, SP
 2024-10-22 10:02:59 [Physical Store App] [31merror[39m: Coordenadas não encontradas para o CEP 13420-410
+2024-10-23 08:55:41 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 08:56:11 [Physical Store App] [31merror[39m: Erro conexão Banco de Dados: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-10-23 09:54:07 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 09:54:40 [Physical Store App] [31merror[39m: Erro conexão Banco de Dados: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-10-23 09:59:45 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 10:00:16 [Physical Store App] [31merror[39m: Erro conexão Banco de Dados: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-10-23 10:55:51 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 10:55:58 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:34:54 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 11:34:57 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:42:08 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 11:42:10 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:47:19 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 11:47:22 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:52:34 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:52:34 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 11:52:35 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:56:27 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:56:27 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 11:56:29 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:59:12 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 11:59:12 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 11:59:15 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 12:04:12 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-23 12:04:12 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-23 12:04:15 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:30:58 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:30:58 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:31:28 [Physical Store App] [31merror[39m: Erro conexão Banco de Dados: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-10-24 07:33:27 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:33:27 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:33:29 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:37:45 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:37:45 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:37:47 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:38:18 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:38:18 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:38:20 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:38:34 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:38:34 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:38:36 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:43:05 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:43:05 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:43:07 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:47:30 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:47:30 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:47:31 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:49:44 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 07:49:44 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 07:49:44 [Physical Store App] [31merror[39m: Erro ao obter loja: Cast to ObjectId failed for value "buscar-lojas-proximas" (type string) at path "_id" for model "Loja"
+2024-10-24 07:49:46 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:24:11 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 08:24:13 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:28:41 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:28:41 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 08:28:41 [Physical Store App] [31merror[39m: Erro ao obter loja: Cast to ObjectId failed for value "buscar-lojas-proximas" (type string) at path "_id" for model "Loja"
+2024-10-24 08:28:44 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:33:16 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:33:17 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 08:33:17 [Physical Store App] [31merror[39m: Erro ao obter loja: Cast to ObjectId failed for value "buscar-lojas-proximas" (type string) at path "_id" for model "Loja"
+2024-10-24 08:33:18 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:34:11 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 08:34:13 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:35:03 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:35:03 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 08:35:03 [Physical Store App] [31merror[39m: Erro ao obter loja: Cast to ObjectId failed for value "buscar-lojas-proximas" (type string) at path "_id" for model "Loja"
+2024-10-24 08:35:05 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:39:14 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-24 08:39:14 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-24 08:39:14 [Physical Store App] [31merror[39m: Erro ao obter loja: Cast to ObjectId failed for value "buscar-lojas-proximas" (type string) at path "_id" for model "Loja"
+2024-10-24 08:39:16 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-25 08:14:11 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
+2024-10-25 08:14:11 [Physical Store App] [32minfo[39m: Servidor rodando na porta 3000
+2024-10-25 08:14:11 [Physical Store App] [31merror[39m: Erro ao obter loja: Cast to ObjectId failed for value "buscar-lojas-proximas" (type string) at path "_id" for model "Loja"
+2024-10-25 08:14:13 [Physical Store App] [32minfo[39m: Conexão com Banco de Dados bem sucedida!
