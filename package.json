@@ -10,13 +10,13 @@
     "start": "ts-node src/app.ts",
     "build": "tsc",
     "dev": "ts-node-dev --respawn src/app.ts",
-    "clean": "rimraf dist"
+    "clean": "rimraf dist",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.7",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "mongoose": "^8.7.2",
@@ -25,7 +25,14 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
+    "@types/jest": "^29.5.14",
     "@types/node": "^22.7.6",
+    "@types/supertest": "^6.0.2",
+    "axios": "^1.7.7",
+    "jest": "^29.7.0",
+    "jest-mock-axios": "^4.7.3",
+    "supertest": "^7.0.0",
+    "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.6.3"
